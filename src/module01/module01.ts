@@ -12,7 +12,7 @@ let no = false;
 let w: number;
 let g = 0;
 let z: number = 123.456;
-let big: bigint = 100n;
+// let big: bigint = 100n;
 
 // Tipo de cadena
 let s: string;

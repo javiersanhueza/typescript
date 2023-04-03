@@ -9,7 +9,6 @@ let no = false;
 let w;
 let g = 0;
 let z = 123.456;
-let big = 100n;
 let s;
 let empty = '';
 let abc = 'abc';
